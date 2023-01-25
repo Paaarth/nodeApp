@@ -1,2 +1,0 @@
-# nodeApp
-Simple Node App
